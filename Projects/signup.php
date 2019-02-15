@@ -1,3 +1,8 @@
+/*
+ *signup.php
+ *support the page that user create account
+ *insert user's username password into database
+ */
 <?php
 	include_once 'conn.php';
 
